@@ -1,0 +1,1149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<!--2Naphthol and Benzoic Acid-->
+
+
+<SCENE ID="2NaphtholIntro">
+	<TEXT ID="2NaphtholIntro_one">
+		<TEXTVALUE>Take Benzoic acid and 2-Naphthol mixture in a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholAddNaHCO3">
+	<TEXT ID="2NaphtholAddNaHCO3_one">
+		<TEXTVALUE>Add 10 ml, of a saturated solution which contains 10% of sodium bicarbonate [cml](NaHCO[sub]3[/sub])[/cml] to the mixture.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholStirit">
+	<TEXT ID="2NaphtholStirit_one">
+		<TEXTVALUE>Stir the mixture well using a clean glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholTakeBeaker">
+	<TEXT ID="2NaphtholTakeBeaker_one">
+		<TEXTVALUE>Take the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholFilterFunnel">
+	<TEXT ID="2NaphtholFilterFunnel_one">
+		<TEXTVALUE>Simple filtration Method: Place a filter funnel on a funnelstand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholFilterPaper">
+	<TEXT ID="2NaphtholFilterPaper_one">
+		<TEXTVALUE>Keep a filter paper on the mouth of the filter funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholPlaceBeaker">
+	<TEXT ID="2NaphtholPlaceBeaker_one">
+		<TEXTVALUE>Take a fresh beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholGlassRod">
+	<TEXT ID="2NaphtholGlassRod_one">
+		<TEXTVALUE>Hold the filter paper using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholPourMixture">
+	<TEXT ID="2NaphtholPourMixture_one">
+		<TEXTVALUE>Pour the mixture through the funnel to the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholRemoveFilter">
+	<TEXT ID="2NaphtholRemoveFilter_one">
+		<TEXTVALUE>Once it filtered completely, take out the filter funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholSeparate">
+	<TEXT ID="2NaphtholSeparate_one">
+		<TEXTVALUE>Collect the residue (2-Naphthol) in a watch glass using a spatula.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="2NaphtholSeparate_two">
+		<TEXTVALUE>Thus 2-Naphthol is separated out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholTakeFilterate">
+	<TEXT ID="2NaphtholTakeFilterate_one">
+		<TEXTVALUE>Take the remaining filtrate collected in the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholPlaceFilterate">
+	<TEXT ID="2NaphtholPlaceFilterate_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholAddHcl">
+	<TEXT ID="2NaphtholAddHcl_one">
+		<TEXTVALUE>Add few drops of conc.HCl to the filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2NaphtholStirit2">
+	<TEXT ID="2NaphtholStirit2_one">
+		<TEXTVALUE>Stir the mixture well using a clean glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholLitmusPaper">
+	<TEXT ID="2NaphtholLitmusPaper_one">
+		<TEXTVALUE>Dip the red litmus paper in the filtrate to test the acidification (Litmus paper test). We can observe that red litmus turns blue.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholBenzoicAcidPPT">
+	<TEXT ID="2NaphtholBenzoicAcidPPT_one">
+		<TEXTVALUE>After some time benzoic acid will be precipitated out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholTakeBeaker2 ">
+	<TEXT ID="2NaphtholTakeBeaker2_one">
+		<TEXTVALUE>Take the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholAgainFilter">
+	<TEXT ID="2NaphtholAgainFilter_one">
+		<TEXTVALUE>Filter the filtrate using simple filter method, as shown earlier.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholRemoveFilter2">
+	<TEXT ID="2NaphtholRemoveFilter2_one">
+		<TEXTVALUE>Once it filtered completely, take out the filter funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2NaphtholSparateBenzoicAcid">
+	<TEXT ID="2NaphtholSparateBenzoicAcid_one">
+		<TEXTVALUE>Collect the residue (Benzoic acid) in a watch glass using a spatula.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="2NaphtholSparateBenzoicAcid_two">
+		<TEXTVALUE>Thus 2-Naphthol and Benzoic Acid is separated out.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="2NaphtholSparateBenzoicAcid_three">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<!--Naphthalene and Benzoic acid-->
+
+<SCENE ID="NaphthaleneIntro">
+	<TEXT ID="NaphthaleneIntro_one">
+		<TEXTVALUE>Take Naphthalene and Benzoic acid mixture in a beaker</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneAddNaOH">
+	<TEXT ID="NaphthaleneAddNaOH_one">
+		<TEXTVALUE>Add 10 ml, of a saturated solution which contains 10% of sodium bicarbonate [cml](NaHCO[sub]3[/sub])[/cml] to the mixture.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneStirit">
+	<TEXT ID="NaphthaleneStirit_one">
+		<TEXTVALUE>Stir the mixture well using a clean glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneTakeBeaker">
+	<TEXT ID="NaphthaleneTakeBeaker_one">
+		<TEXTVALUE>Take the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneFilterFunnel">
+	<TEXT ID="NaphthaleneFilterFunnel_one">
+		<TEXTVALUE>Simple filtration Method: Place filter funnel on a funnelstand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneFilterPaper">
+	<TEXT ID="NaphthaleneFilterPaper_one">
+		<TEXTVALUE>Keep a filter paper on the mouth of the filter funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthalenePlaceBeaker">
+	<TEXT ID="NaphthalenePlaceBeaker_one">
+		<TEXTVALUE>Take a fresh beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="NaphthaleneGlassRod">
+	<TEXT ID="NaphthaleneGlassRod_one">
+		<TEXTVALUE>Hold the filter paper using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthalenePourMixture">
+	<TEXT ID="NaphthalenePourMixture_one">
+		<TEXTVALUE>Pour the mixture through the funnel to the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneRemoveFunnel">
+	<TEXT ID="NaphthaleneRemoveFunnel_one">
+		<TEXTVALUE>Once it filtered completely, take out the filter funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneSeparate">
+	<TEXT ID="NaphthaleneSeparate_one">
+		<TEXTVALUE>Collect the residue (Naphthalene) in a watch glass using a spatula.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="NaphthaleneSeparate_two">
+		<TEXTVALUE>Thus Naphthalene is separated.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthalenePlaceFilterate">
+	<TEXT ID="NaphthalenePlaceFilterate_one">
+		<TEXTVALUE>Take the remaining filtrate in the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="NaphthaleneAddHcl">
+	<TEXT ID="NaphthaleneAddHcl_one">
+		<TEXTVALUE>Add few drops of conc.HCl to the filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="NaphthaleneStirit2">
+	<TEXT ID="NaphthaleneStirit2_one">
+		<TEXTVALUE>Stir the mixture well using a clean glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneLitmusPaper">
+	<TEXT ID="NaphthaleneLitmusPaper_one">
+		<TEXTVALUE>Dip the red litmus paper in the filtrate to test the acidification (Litmus paper test). We can observe that red litmus turns blue.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneBenzoicAcidPPT">
+	<TEXT ID="NaphthaleneBenzoicAcidPPT_one">
+		<TEXTVALUE>After some time benzoic acid will be precipitated out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneTakeBeaker2  ">
+	<TEXT ID="NaphthaleneTakeBeaker2 _one">
+		<TEXTVALUE>Take the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneAgainFilter">
+	<TEXT ID="NaphthaleneAgainFilter_one">
+		<TEXTVALUE>Filter the filtrate using simple filter method, as shown earlier.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneRemovefunnel2">
+	<TEXT ID="NaphthaleneRemovefunnel2_one">
+		<TEXTVALUE>Once the mixture is filtered, take out the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="NaphthaleneSeparateBenzoicAcid">
+	<TEXT ID="NaphthaleneSeparateBenzoicAcid_one">
+		<TEXTVALUE>The residue (Benzoic acid) is collected in a watch glass using a spatula.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="NaphthaleneSeparateBenzoicAcid_two">
+		<TEXTVALUE>Thus Naphthalene and Benzoic Acid are separated.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="NaphthaleneSeparateBenzoicAcid_three">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+
+
+<!--Aniline and Toluene-->
+
+<SCENE ID="AnilineIntro">
+	<TEXT ID="AnilineIntro_one">
+		<TEXTVALUE>Take Aniline and Toluene in a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineDilHcl">
+	<TEXT ID="AnilineDilHcl_one">
+		<TEXTVALUE>Add 15 ml dil.Hcl acid to the mixture.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineStirit">
+	<TEXT ID="AnilineStirit_one">
+		<TEXTVALUE>Stir the mixture well using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineTakeBeaker">
+	<TEXT ID="AnilineTakeBeaker_one">
+		<TEXTVALUE>Take the mixture in the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineSeparationFunnel">
+	<TEXT ID="AnilineSeparationFunnel_one">
+		<TEXTVALUE>Take a separation funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineFilterFunnelOntop">
+	<TEXT ID="AnilineFilterFunnelOntop_one">
+		<TEXTVALUE>Place one filter funnel on the mouth of the separation funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilinePourFilterate">
+	<TEXT ID="AnilinePourFilterate_one">
+		<TEXTVALUE>Pour the mixture into the separation funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineTakeFunnel">
+	<TEXT ID="AnilineTakeFunnel_one">
+		<TEXTVALUE>Remove the filter funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineCorckit">
+	<TEXT ID="AnilineCorckit_one">
+		<TEXTVALUE>Close the separation funnel using a stopper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineShakeTheFunnel">
+	<TEXT ID="AnilineShakeTheFunnel_one">
+		<TEXTVALUE>Shake the funnel and keep it on the stand for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineOrgnAquesLayer">
+	<TEXT ID="AnilineOrgnAquesLayer_one">
+		<TEXTVALUE>We can observe that liquid separates into two layers; an upper layer of organic solution and a lower layer of aqueous solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineRemoveCork">
+	<TEXT ID="AnilineRemoveCork_one">
+		<TEXTVALUE>Remove the stopper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineSeparateAquousLayer">
+	<TEXT ID="AnilineSeparateAquousLayer_one">
+		<TEXTVALUE>Carefully drain out the lowest aqueous layer to a fresh beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilinePlaceFilterate">
+	<TEXT ID="AnilinePlaceFilterate_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineAddNaOH">
+	<TEXT ID="AnilineAddNaOH_one">
+		<TEXTVALUE>Add a few drops of NaOH to the filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineStirit2">
+	<TEXT ID="AnilineStirit2_one">
+		<TEXTVALUE>Stir it well using a clean glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineLitmusPaper">
+	<TEXT ID="AnilineLitmusPaper_one">
+		<TEXTVALUE>Dip a blue litmus paper in the filtrate, It turns red (litmus paper test).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineTakeBeaker ">
+	<TEXT ID="AnilineTakeBeaker_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineNewSepartionFunnel">
+	<TEXT ID="AnilineNewSepartionFunnel_one">
+		<TEXTVALUE>Take a fresh separation funnel and pour the filtrate through a filter funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineAddether">
+	<TEXT ID="AnilineAddether_one">
+		<TEXTVALUE>Add 15 ml of Ether.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AnilineShakeit">
+	<TEXT ID="AnilineShakeit_one">
+		<TEXTVALUE>Remove the filter funnel</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AnilineShakeit_two">
+		<TEXTVALUE>Close the separation funnel using a stopper</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AnilineShakeit_three">
+		<TEXTVALUE>Shake it well and keep it on the stand for some time.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AnilineShakeit_four">
+		<TEXTVALUE>Observe for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AnilineOrganicLayer">
+	<TEXT ID="AnilineOrganicLayer_one">
+		<TEXTVALUE>Aniline reacts with Ether and separates it as organic layer.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AnilineOrganicLayer_two">
+		<TEXTVALUE>Remove the stopper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AnilineOrganicLayer_three">
+		<TEXTVALUE>Carefully drain out the lowest aqueous layer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AnilineAqousLeyer">
+	<TEXT ID="AnilineAqousLeyer_one">
+		<TEXTVALUE>Similarly, drain out the organic layer in another beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AnilineHeatingMandle">
+	<TEXT ID="AnilineHeatingMandle_one">
+		<TEXTVALUE>Heat the organic solution using a heating mantle, set the temperature as 40ºC. Ether will get evaporated and Aniline will be left over.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AnilineRunOutOrganicLayer">
+	<TEXT ID="AnilineRunOutOrganicLayer_one">
+		<TEXTVALUE>Drain out the organic layer from the first separation funnel to a fresh beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="AnilinePutCaCl2">
+	<TEXT ID="AnilinePutCaCl2_one">
+		<TEXTVALUE>Add some [cml]CaCl[sub]2 into the mixture to remove any moisture content. CaCl2[/sub][/cml] does not dissolve, instead it get settle down at the bottom of the beaker.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AnilinePutCaCl2_two">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<!--Toluene and Benzic Acid -->
+
+<SCENE ID="TolueneIntro">
+	<TEXT ID="TolueneIntro_one">
+		<TEXTVALUE>Take Toluene and Benzic Acid in a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneAddNaOH">
+	<TEXT ID="TolueneAddNaOH_one">
+		<TEXTVALUE>Pour 10 ml of NaOH in to the mixture.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneStirit">
+	<TEXT ID="TolueneStirit_one">
+		<TEXTVALUE>Stir it well using glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneTakeBeaker">
+	<TEXT ID="TolueneTakeBeaker_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneSeparationFunnel">
+	<TEXT ID="TolueneSeparationFunnel_one">
+		<TEXTVALUE>Take a separation funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneFilterFunnel">
+	<TEXT ID="TolueneFilterFunnel_one">
+		<TEXTVALUE>Place a filter funnel on top of it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ToluenePourTfilterate">
+	<TEXT ID="ToluenePourTfilterate_one">
+		<TEXTVALUE>Pour the mixture of toluene and Benzoic Acid in to the separation funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneTakeFunnel">
+	<TEXT ID="TolueneTakeFunnel_one">
+		<TEXTVALUE>Remove the filter funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneCorkit">
+	<TEXT ID="TolueneCorkit_one">
+		<TEXTVALUE>Close the separation funnel using stopper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneShakeFunnel">
+	<TEXT ID="TolueneShakeFunnel_one">
+		<TEXTVALUE>Shake it and allow the funnel to stand for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneOrgnAques">
+	<TEXT ID="TolueneOrgnAques_one">
+		<TEXTVALUE>The liquid separates in to two layers.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneRemoveCork">
+	<TEXT ID="TolueneRemoveCork_one">
+		<TEXTVALUE>Remove stopper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneSeparateAquous">
+	<TEXT ID="TolueneSeparateAquous_one">
+		<TEXTVALUE>Carefully run out the lower aqueous layer containing the sodium salt of acid in to a clean beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneTakeOutandNaOH">
+	<TEXT ID="TolueneTakeOutandNaOH_one">
+		<TEXTVALUE>Take out the funnel from the stand and add 6 ml of NaOH solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneCorkit2">
+	<TEXT ID="TolueneCorkit2_one">
+		<TEXTVALUE>Close funnel using stopper, shake it well and place it again in the stand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneAqousLeyer">
+	<TEXT ID="TolueneAqousLeyer_one">
+		<TEXTVALUE>Collect the aqueous layer in the same beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ToluenePlaceFilterate">
+	<TEXT ID="ToluenePlaceFilterate_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneHcl">
+	<TEXT ID="TolueneHcl_one">
+		<TEXTVALUE>Regenerate benzoic acid by adding HCl to the aqueous layer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneStriit2">
+	<TEXT ID="TolueneStriit2_one">
+		<TEXTVALUE>Stir it well using glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneLitmusPaper">
+	<TEXT ID="TolueneLitmusPaper_one">
+		<TEXTVALUE>Litmus test: red litmus will turnes to blue.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneBenzoicAcidPPT">
+	<TEXT ID="TolueneBenzoicAcidPPT_one">
+		<TEXTVALUE>Benzoic acid appear as ppt </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneTakeBeaker2">
+	<TEXT ID="TolueneTakeBeaker2 _one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneFilterFunnelSetup">
+	<TEXT ID="TolueneFilterFunnelSetup_one">
+		<TEXTVALUE>Separate Benzoic acid using simple filteration.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneSeparateFiltrate">
+	<TEXT ID="TolueneSeparateFiltrate_one">
+		<TEXTVALUE>Separate Benzoic acid using simple filteration. Pour the mixture through the filter funnel, benzoic acid will be collected in the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneTakeouFilterFunnel">
+	<TEXT ID="TolueneTakeouFilterFunnel_one">
+		<TEXTVALUE>Take the funnel out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneSeparateBenzoicAcid">
+	<TEXT ID="TolueneSeparateBenzoicAcid_one">
+		<TEXTVALUE>Collect solid benzoic acid from the funnel using spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneRunoutOrganicLayer">
+	<TEXT ID="TolueneRunoutOrganicLayer_one">
+		<TEXTVALUE>Drain toluene in to a clean dry beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="TolueneAddCaCl2">
+	<TEXT ID="TolueneAddCaCl2_one">
+		<TEXTVALUE>Add anhydrous [cml]CaCl[sub]2[/sub][/cml] to remove traces of water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="TolueneAddCaCl2_two">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+ 
+
+<!--Phenol and toluene-->
+
+
+<SCENE ID="PhenolIntro">
+	<TEXT ID="PhenolIntro_one">
+		<TEXTVALUE>Take Phenol and Toluene in a beaker</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolAddNaOH">
+	<TEXT ID="PhenolAddNaOH_one">
+		<TEXTVALUE>Add 10 ml of NaOH to the mixture using a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolStirit">
+	<TEXT ID="PhenolStirit_one">
+		<TEXTVALUE>Stir it well using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolTakeBeaker">
+	<TEXT ID="PhenolTakeBeaker_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolSeparationFunnel">
+	<TEXT ID="PhenolSeparationFunnel_one">
+		<TEXTVALUE>Take a separation funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenoFilterFunnel">
+	<TEXT ID="PhenoFilterFunnel_one">
+		<TEXTVALUE>Place a filter funnel on the mouth of the separation funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolPourFilterate">
+	<TEXT ID="PhenolPourFilterate_one">
+		<TEXTVALUE>Pour the mixture into the separation funnel through the filter funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolTakeFunnel">
+	<TEXT ID="PhenolTakeFunnel_one">
+		<TEXTVALUE>Remove the filter funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolCorkit">
+	<TEXT ID="PhenolCorkit_one">
+		<TEXTVALUE>Close the funnel using a glass stopper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolShakeFunnel">
+	<TEXT ID="PhenolShakeFunnel_one">
+		<TEXTVALUE>Shake it well and keep it on the stand for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolOrgnaquesLayer">
+	<TEXT ID="PhenolOrgnaquesLayer_one">
+		<TEXTVALUE>We can observe that, the mixture in the funnel gets separated as two layers. Phenol at the top organic layer and toluene at the lower aqueous layer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolRemoveCork">
+	<TEXT ID="PhenolRemoveCork_one">
+		<TEXTVALUE>Remove the stopper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolSeparateAquousLlayer">
+	<TEXT ID="PhenolSeparateAquousLlayer_one">
+		<TEXTVALUE>Carefully drain out the lower aqueous layer into a beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolPlaceFilterate">
+	<TEXT ID="PhenolPlaceFilterate_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolAddHcl">
+	<TEXT ID="PhenolAddHcl_one">
+		<TEXTVALUE>Add few drops of NaOH to the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolStirit2">
+	<TEXT ID="PhenolStirit2_one">
+		<TEXTVALUE>Stir it well using glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolLitmusPaper">
+	<TEXT ID="PhenolLitmusPaper_one">
+		<TEXTVALUE>Dip a red litmus paper in the solution, red litmus turns blue.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolTakeBeaker2">
+	<TEXT ID="PhenolTakeBeaker2_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolNewSepartionFunnel">
+	<TEXT ID="PhenolNewSepartionFunnel_one">
+		<TEXTVALUE>Take a new separation funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PhenolNewSepartionFunnel_two">
+		<TEXTVALUE>Place a filter funnel on the mouth of the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PhenolNewSepartionFunnel_three">
+		<TEXTVALUE>Pour the filtrate into the funnel.  </TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenoladdEther">
+	<TEXT ID="PhenoladdEther_one">
+		<TEXTVALUE>Add 20 ml of ether into the filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolPhenol">
+	<TEXT ID="PhenolPhenol_one">
+		<TEXTVALUE>Remove the filter funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PhenolPhenol_two">
+		<TEXTVALUE>Close the funnel with a stopper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PhenolPhenol_three">
+		<TEXTVALUE>Shake it well and keep it on the stand for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolAqousLeyer">
+	<TEXT ID="PhenolAqousLeyer_one">
+		<TEXTVALUE>Phenol reacts with Ether and separates it out as upper organic layer. Lower aqueous layer is water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PhenolAqousLeyer_two">
+		<TEXTVALUE>Remove the stopper and drain out the water (Lower aqueous layer).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolOrganicLayer">
+	<TEXT ID="PhenolOrganicLayer_one">
+		<TEXTVALUE>Collect the organic layer to a fresh beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolHeatingMandle">
+	<TEXT ID="PhenolHeatingMandle_one">
+		<TEXTVALUE>Heat the organic solution using a heating mantle. Set the temperature to 40ºC. Ether evaporates out and thus Toluene is separated out.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolRunoutOrganicLayer">
+	<TEXT ID="PhenolRunoutOrganicLayer_one">
+		<TEXTVALUE>Collect the organic layer from the first separation funnel to a fresh beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="PhenolAddCaCl2">
+	<TEXT ID="PhenolAddCaCl2_one">
+		<TEXTVALUE>Add some anhydrous [cml]CaCl[sub]2[/sub][/cml] to remove the traces of water.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="PhenolAddCaCl2_two">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<!--O-Nitro Phenol and P-Nitro Phenol (Steam Distillation)-->
+
+<SCENE ID="OnitroPlaceRBinMandle">
+	<TEXT ID="OnitroPlaceRBinMandle_one">
+		<TEXTVALUE>Take some Ortho Nitro Phenol and Para Nitro Phenol in a round bottom flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroPlaceRBinMandle_two">
+		<TEXTVALUE>Add some water into it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroPlaceRBinMandle_three">
+		<TEXTVALUE>Place the RB flask in a heating mantle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="OnitroNewRBandPourWater">
+	<TEXT ID="OnitroNewRBandPourWater_one">
+		<TEXTVALUE>Take another round bottom flask, place it on a tripod stand.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroNewRBandPourWater_two">
+		<TEXTVALUE>Keep a filter funnel on the mouth of the RB flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroNewRBandPourWater_three">
+		<TEXTVALUE>Fill some water till the neck of the RB flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroNewRBandPourWater_four">
+		<TEXTVALUE>Remove the funnel.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="OnitroCorkitAndEnterGlassTube">
+	<TEXT ID="OnitroCorkitAndEnterGlassTube_one">
+		<TEXTVALUE> Insert a cork.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroCorkitAndEnterGlassTube_two">
+		<TEXTVALUE>Insert a glass tube into the RB flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="OnitroFitAdapterandCondensor">
+	<TEXT ID="OnitroFitAdapterandCondensor_one">
+		<TEXTVALUE>Place an adapter on top of the RB flask in the heating mantle.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroFitAdapterandCondensor_two">
+		<TEXTVALUE>Attach a condenser and then a receiver as shown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="OnitroFitReceiverandFlask">
+	<TEXT ID="OnitroFitReceiverandFlask_one">
+		<TEXTVALUE>Place a conical flask filled with ice to collect the vapours.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="OnitroEnter2glasstubes">
+	<TEXT ID="OnitroEnter2glasstubes_one">
+		<TEXTVALUE>Insert another glass tube to the RB flask on the tripod stand.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroEnter2glasstubes_two">
+		<TEXTVALUE>Insert a glass cork and then a glass tube through it into the RB flask in the heating mantle.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+<SCENE ID="OnitroConnectsteamandadapter">
+	<TEXT ID="OnitroConnectsteamandadapter_one">
+		<TEXTVALUE>Connect the two flasks using a tube as shown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="OnitroConnectwater">
+	<TEXT ID="OnitroConnectwater_one">
+		<TEXTVALUE>Attach two tubes to the two outlets of the condenser and turn on the tap.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroConnectwater_two">
+		<TEXTVALUE>The condenser gets filled with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="OnitroGraphanimation2">
+	<TEXT ID="OnitroGraphanimation2_one">
+		<TEXTVALUE>If you carefully observe, the water passes through the tube, fills the condenser and then comes out through one of the outlet. This process is to condense the condenser.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="OnitroBurnerandMandle">
+	<TEXT ID="OnitroBurnerandMandle_one">
+		<TEXTVALUE>Set the temparature of heating mandle to 93ºC, turn on the burner too.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="OnitroBoilandSeparation">
+	<TEXT ID="OnitroBoilandSeparation_one">
+		<TEXTVALUE>The Water vapour rises up and the conical flask gets filled with a green colour salt.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+<SCENE ID="OnitroGraphanimation">
+	<TEXT ID="OnitroGraphanimation_one">
+		<TEXTVALUE>If you carefully observe, Water vapour rises up from the RB flask on the tripod stand, passes through the tube, enters the second RB flask and now the O-Nitro Phenol vapour rises up and passes through the condenser and get collected in the receiver conical flask in the solid form as shown.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroGraphanimation_two">
+		<TEXTVALUE>Here, the O-Nitro Phenol vapour, when gets into the condenser get converted into liquid form due to condensation and get collected in the solid form in the conical flask due to the ice filled in it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Onitrotakeflask">
+	<TEXT ID="Onitrotakeflask_one">
+		<TEXTVALUE>Take the conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="OnitroBuchnersetup">
+	<TEXT ID="OnitroBuchnersetup_one">
+		<TEXTVALUE>Clamp a side arm conical flask to funnel stand.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroBuchnersetup_two">
+		<TEXTVALUE>Place a Buchner funnel on the mouth of the flask.</TEXTVALUE>
+		</TEXT>
+		<TEXT ID="OnitroBuchnersetup_three">
+		<TEXTVALUE>Put a piece of filter paper to the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="OnitroConnectvaccumpumb">
+	<TEXT ID="OnitroConnectvaccumpumb_one">
+		<TEXTVALUE>Connect the thick wire of a hand vacuum pump to the side arm of the flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroConnectvaccumpumb_two">
+		<TEXTVALUE>Put the green salt along with the ice to the flask, the pistol of the pump should be squeezed along with it. The water gets filled in the flask due to the vacuum filtration.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="OnitroTakeoutfilterate">
+	<TEXT ID="OnitroTakeoutfilterate_one">
+		<TEXTVALUE>Take out the filter paper. We can observe that a thick layer of Ortho-Nitro Phenol is collected in the filter paper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="OnitroTakeoutfilterate_two">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<!--Benzene and toluene (Fractional Distillation)-->
+
+<SCENE ID="BenzenePlaceRBinMandle">
+	<TEXT ID="BenzenePlaceRBinMandle_one">
+		<TEXTVALUE>Take Cyclohexane and Toluene mixture in a round bottom flask. Put some porcelain pieces in it to avoid bumping while boiling.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="BenzenePlaceRBinMandle_two">
+		<TEXTVALUE>Place the RB flask in a heating mantle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BenzenePlaceFractionatingColumnnAdapter">
+	<TEXT ID="BenzenePlaceFractionatingColumnnAdapter_one">
+		<TEXTVALUE>Fix a fractionating column and an adapter on top of the RB flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BenzenePlaceThermometer">
+	<TEXT ID="BenzenePlaceThermometer_one">
+		<TEXTVALUE> Fit a thermometer in a thermometer cork and place it on the adapter.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BenzenePlaceCondensornReceiver">
+	<TEXT ID="BenzenePlaceCondensornReceiver_one">
+		<TEXTVALUE>Attach a condenser to the adapter and a then a receiver to the condenser.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenzenePlaceCondensornReceiver_two">
+		<TEXTVALUE>Fix a round bottom flask in a stand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Benzeneconnectwater">
+	<TEXT ID="Benzeneconnectwater_one">
+		<TEXTVALUE>Attach two tubes to the two outlets of the condenser as shown and then open the tap.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Benzeneconnectwater_two">
+		<TEXTVALUE>The condenser gets filled with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="BenzeneGraph1copy">
+	<TEXT ID="BenzeneGraph1copy_one">
+		<TEXTVALUE>If you carefully observe, the water passes through the tube, fills the condenser and then come out through one of the outlet. This process is to condense the condenser.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Heating mantle">
+	<TEXT ID="Heating mantle_one">
+		<TEXTVALUE>Set the temperature to 82ºC on the heating mantle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="BenzeneGraph1">
+	<TEXT ID="BenzeneGraph1_one">
+		<TEXTVALUE>Cyclohexane evaporates, vapours rise through the column, while it passes through the condenser, condensation takes place and therefore Cyclohexane vapour gets collected in liquid form in the RB flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenzeneGraph1_two">
+		<TEXTVALUE>Cyclohexane has the lower boiling point (80ºC) and is more volatile. Toluene does not boil at the same temperature as Cyclohexane, so the Cyclohexane will boil out of the mixture first.
+</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="BenzeneGraph1_three">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="BenzeneCollectBenzine">
+	<TEXT ID="BenzeneCollectBenzine_one">
+		<TEXTVALUE>Benzene will be sparated and collected in the receiving flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+<SCENE ID="ChromatoColumn">
+	<TEXT ID="ChromatoColumn_one">
+		<TEXTVALUE>Take a column,fix it in a stand and plug a small amount of cotton in it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ChromatoColumn_two">
+		<TEXTVALUE>Take a wood applicator to tamp the cotton down.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ChromatoColumn_three">
+		<TEXTVALUE>Place a conical flask below the column.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+<SCENE ID="ChromatoSiica">
+	<TEXT ID="ChromatoSiica_one">
+		<TEXTVALUE>Take some dry Silica Gel in a clean conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Chromatopetroleumether">
+	<TEXT ID="Chromatopetroleumether_one">
+		<TEXTVALUE>Pour some Petroleum Ether into it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ChromatoStirnslurry">
+	<TEXT ID="ChromatoStirnslurry_one">
+		<TEXTVALUE>Stir it well using a glass rod until the mixture becomes slurry.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ChromatoFillSlurryinColumn">
+	<TEXT ID="ChromatoFillSlurryinColumn_one">
+		<TEXTVALUE>Insert a grass rod and pour the slurry in to the column.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ChromatoOnitroPhenol">
+	<TEXT ID="ChromatoOnitroPhenol_one">
+		<TEXTVALUE>Take a clean conical flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ChromatoOnitroPhenol_two">
+		<TEXTVALUE>Put 4-grams of mixture of O-nitro phenol and P-nitro phenol in to the conical flask</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ChromatoPnitroPhenol ">
+	<TEXT ID="ChromatoPnitroPhenol_one">
+		<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ChromatoAddBenzene">
+	<TEXT ID="ChromatoAddBenzene_one">
+		<TEXTVALUE>Take some Dichloro Methane in a measuring jar.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="ChromatoAddBenzene_two">
+		<TEXTVALUE>Pour this Dichloro Methane into the conical flask contains the mixture.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ChromatoAddBenzene_three">
+		<TEXTVALUE>Put some Silica Gel into the mixture.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+
+
+<SCENE ID="ChromatoWeighingPaper">
+	<TEXT ID="ChromatoWeighingPaper_one">
+		<TEXTVALUE>Shake it well, the Dichloro Methane gets evaporated.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ChromatoWeighingPaper_three">
+		<TEXTVALUE>Take the dust in a weighing paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="ChromatoFillmixture">
+	<TEXT ID="ChromatoFillmixture_one">
+		<TEXTVALUE>Put it into the column.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ChromatoFillcotton">
+	<TEXT ID="ChromatoFillcotton_one">
+		<TEXTVALUE> plug in a cotton.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ChromatoFillcotton_two">
+		<TEXTVALUE>Tamp it tightly using a wood applicator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ChromatoDroppingfunnel">
+	<TEXT ID="ChromatoDroppingfunnel_one">
+		<TEXTVALUE>Pour some Dichloro Methane in a dropping funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ChromatoDroppingfunnel2">
+	<TEXT ID="ChromatoDroppingfunnel2_one">
+		<TEXTVALUE>Place the funnel on top of the column.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="ChromatoDroppingfunnel2_two">
+		<TEXTVALUE>Open the stopcock of the dropping funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ChromatoSeparation">
+	<TEXT ID="ChromatoSeparation_one">
+		<TEXTVALUE>If you carefully observe, we can see O-Nitro Phenol and P-Nitro Phenol separates into two layers.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ChromatoRunout">
+	<TEXT ID="ChromatoRunout_one">
+		<TEXTVALUE>Take a fresh conical flask run out the Ortho-Nitro Phenol.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ChromatoTakebeaker">
+	<TEXT ID="ChromatoTakebeaker_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ChromatoRunout2">
+	<TEXT ID="ChromatoRunout2_one">
+		<TEXTVALUE>Similarly run out the Para-Nitro Phenol from the column.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ChromatoTakebeaker2">
+	<TEXT ID="ChromatoTakebeaker2_one">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ChromatoRotaevoporator">
+	<TEXT ID="ChromatoRotaevoporator_one">
+		<TEXTVALUE>Transfer O-Nitro phenol into a RB flask and evoporate the solution using rotary evaporator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ChromatoOnitrophenoldry">
+	<TEXT ID="ChromatoOnitrophenoldry_one">
+		<TEXTVALUE>Scratch out the dry O-Nitro phenol from the RB flask using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ChromatoRotaevoporator2">
+	<TEXT ID="ChromatoRotaevoporator2_one">
+		<TEXTVALUE>Transfer P-Nitro phenol into a RB flask and evoporate the solution using rotary evaporator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="ChromatoOnitrophenoldry2">
+	<TEXT ID="ChromatoOnitrophenoldry2_one">
+		<TEXTVALUE>Scratch out the dry P-Nitro phenol from the RB flask using a spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<!--Ethanol and Water-->
+
+<SCENE ID="EthanolPlaceRBinMandle">
+	<TEXT ID="EthanolPlaceRBinMandle_one">
+		<TEXTVALUE>Take Ethanol and Water mixture in a round bottom flask. Put some porcelain pieces in it to avoid bumping while boiling.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="EthanolPlaceRBinMandle_two">
+		<TEXTVALUE>Place the RB flask in a heating mantle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="EthanolPlaceFractionatingColumnnAdapter">
+	<TEXT ID="EthanolPlaceFractionatingColumnnAdapter_one">
+		<TEXTVALUE>Fix a fractionating column and an adapter on top of the RB flask.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="EthanolPlaceThermometer">
+	<TEXT ID="EthanolPlaceThermometer_one">
+		<TEXTVALUE> Fit a thermometer in a thermometer cork and place it on the adapter.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="EthanolPlaceCondensornReceiver">
+	<TEXT ID="EthanolPlaceCondensornReceiver_one">
+		<TEXTVALUE> Attach a condenser to the adapter and a then a receiver to the condenser.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="EthanolPlaceCondensornReceiver_two">
+		<TEXTVALUE>Fix a round bottom flask in a stand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Ethanolconnectwater">
+	<TEXT ID="Ethanolconnectwater_one">
+		<TEXTVALUE>Attach two tubes to the two outlets of the condenser as shown and turn on the tap.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Ethanolconnectwater_two">
+		<TEXTVALUE>The condenser gets filled with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="EthanolGraph1 copy">
+	<TEXT ID="EthanolGraph1 copy_one">
+		<TEXTVALUE>If you carefully observe, the water passes through the tube, fills the condenser and then comes out through one of the outlet. This process is to condense the condenser.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+<SCENE ID="Heatingmantle">
+	<TEXT ID="Heatingmantle_one">
+		<TEXTVALUE>Set the temperature to 78.4ºC on the heating mantle.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+	
+	<SCENE ID="EthanolGraph1">
+	<TEXT ID="EthanolGraph1_one">
+		<TEXTVALUE>Ethanol evaporates, the vapours rise through the column, while it passes through the condenser, condensation takes place and therefore Ethanol vapours gets collected in liquid form in the RB flask.</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="EthanolGraph1_two">
+		<TEXTVALUE>Ethanol has the lower boiling point (78ºC) than the water. Because ethanol is more volatile, the vapours contain more ethanol. This process has to be repeated many times before the collected liquid consist of only pure ethanol.
+
+</TEXTVALUE>
+	</TEXT>
+	
+	<TEXT ID="EthanolGraph1_three">
+		<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+
+
+</DATA>
