@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "After performing a recrystallization, where are the impurities found?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "they evaporate",
+        "b": "In the filter paper",
+        "c": "On the surface of the pure crystals",
+        "d": "In the filtrate"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Impurities do not evaporate in this process.",
+        "b": "Only insoluble particles may remain here.",
+        "c": "Usually, pure crystals are formed separately.",
+        "d": "Correct. Soluble impurities remain in the filtrate after recrystallization."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Gas chromatography is similar to?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Paper chromatography",
+        "b": "HPLC",
+        "c": "Column chromatography",
+        "d": "TLC"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Paper chromatography is not similar in technique or mechanism.",
+        "b": "HPLC is liquid-based and uses high pressure, while GC uses gases.",
+        "c": "Correct. GC is conceptually similar to column chromatography but uses gas as the mobile phase.",
+        "d": "TLC is a surface method, not column-based."
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Column chromatography is a",
+      "answers": {
+        "a": "Liquid-gas technique",
+        "b": "Solid-solid technique",
+        "c": "Liquid-liquid technique",
+        "d": "Solid-liquid technique"
+      },
+      "explanations": {
+        "a": "This refers more to GC, not column chromatography.",
+        "b": "Not a solid-solid interaction.",
+        "c": "This refers more to partition chromatography.",
+        "d": "Correct. Column chromatography involves a solid stationary phase and a liquid mobile phase."
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
