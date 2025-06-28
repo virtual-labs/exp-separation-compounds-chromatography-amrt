@@ -1,38 +1,38 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+     {
+      "question": "What is the most common mobile phase in gas chromatography?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Krypton",
+        "b": "Benzene",
+        "c": "Hexane",
+        "d": "Helium"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Krypton is not typically used in GC.",
+        "b": "Benzene is a liquid and not used as a carrier gas.",
+        "c": "Hexane is a liquid, not a carrier gas in GC.",
+        "d": "Correct. Helium is commonly used as a carrier gas in gas chromatography."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is a common stationary phase in column chromatography?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "iron(III)chloride",
+        "b": "sodium sulfate",
+        "c": "magnesium oxide",
+        "d": "alumina"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "FeCl₃ is not used as a stationary phase.",
+        "b": "Sodium sulfate is used as a drying agent, not in chromatography.",
+        "c": "Magnesium oxide is not commonly used.",
+        "d": "Correct. Alumina is a typical stationary phase in column chromatography."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
